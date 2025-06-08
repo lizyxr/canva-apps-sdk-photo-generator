@@ -138,9 +138,9 @@ export const HomePage = (props: HomePageProps) => {
             disabled={uploading}
           />
           <Text
-            alignment="start"
+            alignment="center"
             capitalization="default"
-            size="medium"
+            size="xsmall"
             variant="regular"
           >
             Or
@@ -150,7 +150,7 @@ export const HomePage = (props: HomePageProps) => {
                 onClick={props.enterTemplatesPage}
                 variant="secondary"
               >
-              Or select from templates provided
+              Select from templates provided
           </Button>
         </Rows>
       )}
