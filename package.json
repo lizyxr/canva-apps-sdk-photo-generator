@@ -30,7 +30,7 @@
   ],
   "dependencies": {
     "@canva/app-i18n-kit": "^1.0.2",
-    "@canva/app-ui-kit": "^4.8.0",
+    "@canva/app-ui-kit": "^4.9.0",
     "@canva/asset": "^2.1.0",
     "@canva/design": "^2.4.0",
     "@canva/error": "^2.1.0",
@@ -84,7 +84,7 @@
     "nodemon": "3.0.1",
     "open": "8.4.2",
     "postcss-loader": "8.1.1",
-    "prettier": "3.4.2",
+    "prettier": "^3.4.2",
     "prompts": "2.4.2",
     "style-loader": "4.0.0",
     "terser-webpack-plugin": "5.3.11",
