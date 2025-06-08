@@ -34,7 +34,7 @@ const templateImages: Image[] = [
   {imageId: "Dog", content: dog, height: 200, width: 200},
   {imageId: "Cat", content: cat, height: 200, width: 200},  
   {imageId: "Rabbit", content: rabbit, height: 200, width: 200}
-];
+]; //TODO: update with real template content
 
 
 
